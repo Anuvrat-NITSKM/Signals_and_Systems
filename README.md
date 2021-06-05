@@ -14,7 +14,7 @@ Resources for Signals and systems
   - [Signals and Systems - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
   - [Signals and Systems - Genique Education](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
   
-- Book
+- Books
   - Linear Systems and Signals by B.P. Lathi
   - Principal of Linear Systems and Signals by B.P. Lathi
   - [More](https://www.sanfoundry.com/best-reference-books-signals-systems/)
